@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cpskhonkaen/static/css/main.cb960c93.css",
+    "main.js": "/cpskhonkaen/static/js/main.bf0b801b.js",
+    "static/media/Marker.png": "/cpskhonkaen/static/media/Marker.457199d3114db78d82ee.png",
+    "static/media/bg-signup.jpg": "/cpskhonkaen/static/media/bg-signup.bec2ba7098b7ca00f473.jpg",
+    "static/media/info-card-2.jpg": "/cpskhonkaen/static/media/info-card-2.9a5119d163ea1e152800.jpg",
+    "static/media/info-card-3.jpg": "/cpskhonkaen/static/media/info-card-3.e73b3934a3c41fdb920d.jpg",
+    "static/media/Background.jpg": "/cpskhonkaen/static/media/Background.6608b5c1e32d876b2846.jpg",
+    "static/media/one-logo-transparent.png": "/cpskhonkaen/static/media/one-logo-transparent.67b0513e97e2ba450a53.png",
+    "static/media/drawable-header.png": "/cpskhonkaen/static/media/drawable-header.5c71a3066f962d08ebee.png",
+    "index.html": "/cpskhonkaen/index.html",
+    "main.cb960c93.css.map": "/cpskhonkaen/static/css/main.cb960c93.css.map",
+    "main.bf0b801b.js.map": "/cpskhonkaen/static/js/main.bf0b801b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb960c93.css",
+    "static/js/main.bf0b801b.js"
+  ]
+}
