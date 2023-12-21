@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cpskhonkaen/static/css/main.43947e75.css",
-    "main.js": "/cpskhonkaen/static/js/main.0dc187c1.js",
-    "static/media/logo.png": "/cpskhonkaen/static/media/logo.7f04cf6a5d4882e26ba2.png",
-    "static/media/Marker.png": "/cpskhonkaen/static/media/Marker.457199d3114db78d82ee.png",
-    "static/media/qr-line-128.jpg": "/cpskhonkaen/static/media/qr-line-128.4128f8dcb33f1534ba8f.jpg",
-    "index.html": "/cpskhonkaen/index.html",
-    "main.43947e75.css.map": "/cpskhonkaen/static/css/main.43947e75.css.map",
-    "main.0dc187c1.js.map": "/cpskhonkaen/static/js/main.0dc187c1.js.map"
+    "main.css": "/shrine/static/css/main.43947e75.css",
+    "main.js": "/shrine/static/js/main.bac6e13c.js",
+    "static/media/logo.png": "/shrine/static/media/logo.7f04cf6a5d4882e26ba2.png",
+    "static/media/Marker.png": "/shrine/static/media/Marker.457199d3114db78d82ee.png",
+    "static/media/qr-line-128.jpg": "/shrine/static/media/qr-line-128.4128f8dcb33f1534ba8f.jpg",
+    "index.html": "/shrine/index.html",
+    "main.43947e75.css.map": "/shrine/static/css/main.43947e75.css.map",
+    "main.bac6e13c.js.map": "/shrine/static/js/main.bac6e13c.js.map"
   },
   "entrypoints": [
     "static/css/main.43947e75.css",
-    "static/js/main.0dc187c1.js"
+    "static/js/main.bac6e13c.js"
   ]
 }
